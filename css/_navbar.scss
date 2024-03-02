@@ -1,0 +1,20 @@
+.btn-nav{
+background-color:var(--bluesoft);
+}
+.btn-nav:hover{
+    background-color:var(--blue);
+}
+
+.btn{
+    width: 5.5rem;
+    height: 2.8rem;
+    
+}
+nav, .btn {
+ font-weight: bolder ;
+ font-size: large;  
+ color: white;
+}
+.nav-item{
+    margin-right: .5rem;
+}
