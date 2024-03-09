@@ -11989,6 +11989,10 @@ nav, .btn {
   margin-right: 0.5rem;
 }
 
+* {
+  font-family: "Poppins", sans-serif;
+}
+
 :root {
   --blue:#00adb0;
   --bluesoft:#04bbbe;
@@ -12029,4 +12033,8 @@ a.btn-dartar:hover {
 
 .title-hero {
   font-weight: 900;
+}
+
+.classprogram {
+  background-color: #f0fdfa;
 }/*# sourceMappingURL=stayle.css.map */
